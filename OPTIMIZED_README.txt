@@ -1,0 +1,1 @@
+Optimized build: updated mineflayer dependency target, node 20, server version set, reconnect/AFK patches retained.
